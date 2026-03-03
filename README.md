@@ -1,4 +1,4 @@
-# Terraform with Azure - Complete Video Course 🚀
+# Terraform with Azure 
 
 
 
